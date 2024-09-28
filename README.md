@@ -1,1 +1,1 @@
-# js-palavras
+# js-desenhos
